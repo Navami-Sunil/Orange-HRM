@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//p[text()='Thank you. We will be in touch with you shortly.']"
+}
